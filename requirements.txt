@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 streamlit
 ultralytics
 opencv-python-headless
 numpy
-=======
-streamlit
-ultralytics
-opencv-python-headless
-numpy
->>>>>>> 99c316e631ee9152f4adb87bd58bbd8698d6243b
 pillow
