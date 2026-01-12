@@ -111,3 +111,5 @@ Shalini Kumari
 📧 Email: shalinikumari8789@gmail.com
 
 💻 GitHub: https://github.com/angel-shalu
+
+Live Demo: https://fvlkav9lyw6j8jrubujsog.streamlit.app/
